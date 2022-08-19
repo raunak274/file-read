@@ -1,0 +1,3 @@
+Hi You are raeding data from the file file.txt from file-read module.
+Thanku
+Raunak
